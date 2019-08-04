@@ -1,7 +1,7 @@
 const friends = [
    {
       name:"Ian",
-      photo: 'photos/ian.jpg',
+      photo: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
       scores:[
          "5",
          "1",
@@ -17,7 +17,7 @@ const friends = [
    },
    {
       name:"Josh",
-      photo: photos/ian.jpg,
+      photo: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
       scores:[
          "2",
          "1",
@@ -33,7 +33,7 @@ const friends = [
    },
    {
       name:"Sam",
-      photo: photos/ian.jpg,
+      photo:'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
       scores:[
          "5",
          "4",
@@ -49,7 +49,7 @@ const friends = [
    },
    {
       name:"Kelly",
-      photo: photos/ian.jpg,
+      photo: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
       scores:[
          "4",
          "4",
@@ -65,7 +65,7 @@ const friends = [
    },
    {
       name:"Joe",
-      photo: photos/ian.jpg,
+      photo: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
       scores:[
          "1",
          "4",
@@ -81,7 +81,7 @@ const friends = [
    },
    {
       name:"Tony",
-      photo: photos/ian.jpg,
+      photo: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
       scores:[
          "4",
          "5",
