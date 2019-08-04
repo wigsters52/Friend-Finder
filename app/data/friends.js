@@ -1,8 +1,8 @@
 const friends = [
    {
       name:"Ian",
-      photo: photos/ian.jpg,
-      scoores:[
+      photo: 'photos/ian.jpg',
+      scores:[
          "5",
          "1",
          "4",
@@ -18,7 +18,7 @@ const friends = [
    {
       name:"Josh",
       photo: photos/ian.jpg,
-      scoores:[
+      scores:[
          "2",
          "1",
          "4",
@@ -34,7 +34,7 @@ const friends = [
    {
       name:"Sam",
       photo: photos/ian.jpg,
-      scoores:[
+      scores:[
          "5",
          "4",
          "1",
@@ -50,7 +50,7 @@ const friends = [
    {
       name:"Kelly",
       photo: photos/ian.jpg,
-      scoores:[
+      scores:[
          "4",
          "4",
          "2",
@@ -66,7 +66,7 @@ const friends = [
    {
       name:"Joe",
       photo: photos/ian.jpg,
-      scoores:[
+      scores:[
          "1",
          "4",
          "5",
@@ -82,7 +82,7 @@ const friends = [
    {
       name:"Tony",
       photo: photos/ian.jpg,
-      scoores:[
+      scores:[
          "4",
          "5",
          "1",
@@ -96,3 +96,5 @@ const friends = [
       ]
    }
 ]
+
+module.exports = friends;
